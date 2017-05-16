@@ -7,6 +7,7 @@ Spring Controller 에 대하여 표 형식의 문서를 만들어 주는 프로�
 ## Notice
 
 * JRE 1.8 이상이 설치 되어 있어야 합니다.
+* 실행은 junit 으로 [GeneratorSpringControllerDoc.java](https://github.com/lahuman/GeneratorSpringControllerDocx/blob/master/src/test/java/lahuman/doc/spring/controller/GeneratorSpringControllerDoc.java) 을 실행 합니다.
 * docx 형식의 샘플 템플릿은 [resource](https://github.com/lahuman/GeneratorSpringControllerDocx/blob/master/src/resource/DocTemplate.docx) 에 있습니다.
 
 ## Function
