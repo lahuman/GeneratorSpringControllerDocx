@@ -24,4 +24,4 @@ Spring Controller 에 대한 문서를 표 형식으로 만들어 주는 프로�
 
 GeneratorSpringControllerDocx 는 open source 프로그램으로 MIT 라이선스를 따릅니다.
 
-This J-GeneratorSpringControllerDocx is free and open source software, distributed under the MIT License. So feel free to use this program on your project without linking back to me or including a disclaimer.
+This GeneratorSpringControllerDocx is free and open source software, distributed under the MIT License. So feel free to use this program on your project without linking back to me or including a disclaimer.
