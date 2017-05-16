@@ -1,6 +1,6 @@
 # Spring Controller 문서 만들기
 
-Spring Controller 에 대한 문서를 표 형식으로 만들어 주는 프로그램 입니다.<br />
+Spring Controller 에 대하여 표 형식의 문서를 만들어 주는 프로그램 입니다.<br />
 
 <div markdown="0"><a href="https://github.com/lahuman/GeneratorSpringControllerDocx" class="btn btn-warning">Source 바로가기</a></div>
 
